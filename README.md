@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adchi1
 - 🌱 I’m interested in gardening
 - 📝 I’m currently learning JavaScript
-- 🤝 I’m looking to collaborate on game development
+- 🤝 I’m looking to collaborate with someone to develop games
 
 <!---
 adchi1/adchi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
